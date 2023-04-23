@@ -42,18 +42,18 @@ const styles = StyleSheet.create({
   },
   cards: {
     borderRadius: 8,
-    alignItems: 'center', 
+    alignItems: 'center',
     justifyContent: 'center',
     width: '22%',
     height: 100,
     margin: '1.5%',
-  }, 
+  },
   card1: {
     backgroundColor: '#951f1f',
-  }, 
+  },
   card2: {
     backgroundColor: '#1f6e2b',
-  }, 
+  },
   card3: {
     backgroundColor: '#1f486e',
   },
